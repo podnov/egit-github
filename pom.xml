@@ -42,7 +42,7 @@
   <properties>
     <tycho-version>1.0.0</tycho-version>
     <tycho-extras-version>${tycho-version}</tycho-extras-version>
-    <egit-site>file:/${basedir}/../../egit/org.eclipse.egit.repository/target/repository</egit-site>
+    <egit-site>http://download.eclipse.org/egit/github/updates-nightly</egit-site>
     <platform-version-name>mars</platform-version-name>
     <mylyn-site>http://download.eclipse.org/mylyn/releases/3.7</mylyn-site>
     <eclipse-site>http://download.eclipse.org/releases/${platform-version-name}</eclipse-site>
